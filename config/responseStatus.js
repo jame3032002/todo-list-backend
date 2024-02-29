@@ -1,0 +1,9 @@
+const NO_CONTENT = 204;
+const CREATE_STATUS = 201;
+const BAD_REQUEST_STATUS = 400;
+
+module.exports = {
+  NO_CONTENT,
+  CREATE_STATUS,
+  BAD_REQUEST_STATUS,
+};
